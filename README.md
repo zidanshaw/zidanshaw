@@ -20,15 +20,9 @@
 <a href="https://zidanz.my.id" > zidanz.my.id </a>
 </p>
 
-## Quote of the Day
-<!--QUOTE_START-->
-<p align="center">
-  <i>“Restlessness is discontent, and discontent is the first necessity of progress.”</i><br/>
-  — <b>Thomas Edison</b>
-</p>
-<!--QUOTE_END-->
-
-##
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/zidanshaw/zidanshaw/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -40,10 +34,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/zidanshaw/zidanshaw/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 ## Contact
 
-zidanshaw4327@gmail.com
+zidanshaw4327@gamil.com
