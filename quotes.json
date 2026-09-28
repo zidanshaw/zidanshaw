@@ -1,27 +1,27 @@
 [
-  {
-    "quote": "Imagination is more important than knowledge.",
-    "author": "Albert Einstein",
-    "source": "Interview with George Sylvester Viereck, 1929"
-  },
-  {
-    "quote": "The present is theirs; the future, for which I really worked, is mine.",
-    "author": "Nikola Tesla",
-    "source": "The Transmission of Electrical Energy Without Wires As a Means for Furthering Peace, 1905"
-  },
-  {
-    "quote": "Genius is one percent inspiration, ninety-nine percent perspiration.",
-    "author": "Thomas Edison",
-    "source": "Attributed to Edison in a 1903 publication"
-  },
-  {
-    "quote": "If I have seen further it is by standing on the shoulders of giants.",
-    "author": "Isaac Newton",
-    "source": "Letter to Robert Hooke, 1676"
-  },
-  {
-    "quote": "The Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves.",
-    "author": "Ada Lovelace",
-    "source": "Notes on the Analytical Engine, 1843"
-  }
+  [
+    "Imagination is more important than knowledge.",
+    "Albert Einstein",
+    "Interview with George Sylvester Viereck, 1929"
+  ],
+  [
+    "The present is theirs; the future, for which I really worked, is mine.",
+    "Nikola Tesla",
+    "The Transmission of Electrical Energy Without Wires As a Means for Furthering Peace, 1905"
+  ],
+  [
+    "Genius is one percent inspiration, ninety-nine percent perspiration.",
+    "Thomas Edison",
+    "Attributed to Edison in a 1903 publication"
+  ],
+  [
+    "If I have seen further it is by standing on the shoulders of giants.",
+    "Isaac Newton",
+    "Letter to Robert Hooke, 1676"
+  ],
+  [
+    "The Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves.",
+    "Ada Lovelace",
+    "Notes on the Analytical Engine, 1843"
+  ]
 ]

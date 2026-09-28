@@ -12,15 +12,13 @@
 
 ## ABOUT
 
-Web developer interested in Linux, cybersecurity, networking, and building things that are actually useful.
-
-I like clean interfaces, lightweight systems, and experiments that teach me something.
+Web developer interested in Linux, cybersecurity, networking, and building useful things.
 
 ---
 
 ## NOW
 
-| Area | Focus |
+| Focus | Work |
 |:---|:---|
 | **Web** | Frontend development & personal projects |
 | **Systems** | Linux, Bash & servers |
@@ -32,26 +30,16 @@ I like clean interfaces, lightweight systems, and experiments that teach me some
 ## QUOTE OF THE WEEK
 
 <div align="center">
-
-<img src="./quote.svg" alt="Quote of the week" width="900" />
-
+<img src="./quote.svg" width="820" alt="Quote of the week">
 </div>
 
 ---
 
 ## SELECTED WORK
 
-<div align="center">
-
-| Project | Preview |
-|:---:|:---:|
-| **Portfolio** | [View project](https://zidanz.my.id) |
-| **Project 02** | [View project](#) |
-| **Project 03** | [View project](#) |
-
-</div>
-
-Replace the placeholders with real project or video links. Keep it to a few things worth showing.
+- **Personal Portfolio** → [zidanz.my.id](https://zidanz.my.id)
+- **Project 02** → replace with your project
+- **Project 03** → replace with your project
 
 ---
 
@@ -61,32 +49,14 @@ Replace the placeholders with real project or video links. Keep it to a few thin
 
 <table>
 <tr>
-<td align="center" width="120">
-<img src="./assets/skills/html5.svg" width="56" height="56" alt="HTML5" /><br />
-<strong>HTML</strong>
-</td>
-<td align="center" width="120">
-<img src="./assets/skills/css3.svg" width="56" height="56" alt="CSS3" /><br />
-<strong>CSS</strong>
-</td>
-<td align="center" width="120">
-<img src="./assets/skills/python.svg" width="56" height="56" alt="Python" /><br />
-<strong>Python</strong>
-</td>
+<td align="center"><img src="./assets/html5.svg" width="64"><br>HTML</td>
+<td align="center"><img src="./assets/css3.svg" width="64"><br>CSS</td>
+<td align="center"><img src="./assets/python.svg" width="64"><br>Python</td>
 </tr>
 <tr>
-<td align="center" width="120">
-<img src="./assets/skills/bash.svg" width="56" height="56" alt="Bash" /><br />
-<strong>Bash</strong>
-</td>
-<td align="center" width="120">
-<img src="./assets/skills/linux.svg" width="56" height="56" alt="Linux" /><br />
-<strong>Linux</strong>
-</td>
-<td align="center" width="120">
-<img src="./assets/skills/blender.svg" width="56" height="56" alt="Blender" /><br />
-<strong>Blender</strong>
-</td>
+<td align="center"><img src="./assets/bash.svg" width="64"><br>Bash</td>
+<td align="center"><img src="./assets/linux.svg" width="64"><br>Linux</td>
+<td align="center"><img src="./assets/blender.svg" width="64"><br>Blender 3D</td>
 </tr>
 </table>
 
@@ -112,38 +82,90 @@ Replace the placeholders with real project or video links. Keep it to a few thin
 
 ---
 
-## PACKET RUNNER
+## DINO RUN
 
-A small networking-themed game.
+A tiny profile game built from linked Markdown states.
 
-```text
-YOU ARE A PACKET
+<div align="center">
+<img src="./assets/dino-title.svg" width="760" alt="Dino Run">
+<br><br>
+**RUN 01 · 0000m**
+<br><br>
+<a href="#dino-01">START</a>
+</div>
 
-START
-  ↓
-ROUTER
-  ↓
-FIREWALL
-  ↓
-NETWORK
-  ↓
-SERVER
-```
+---
 
-**Goal:** reach the server while keeping latency low.
+<a id="dino-01"></a>
 
-[▶ Play Packet Runner](https://zidanz.my.id/packet-runner)
+### DINO RUN · 0010m
+
+<div align="center"><img src="./assets/dino-01.svg" width="760" alt="First obstacle"></div>
+
+First obstacle.
+
+[**JUMP**](#dino-02)
+
+---
+
+<a id="dino-02"></a>
+
+### DINO RUN · 0030m
+
+<div align="center"><img src="./assets/dino-02.svg" width="760" alt="Second obstacle"></div>
+
+Clean jump.
+
+[**JUMP**](#dino-03)
+
+---
+
+<a id="dino-03"></a>
+
+### DINO RUN · 0060m
+
+<div align="center"><img src="./assets/dino-03.svg" width="760" alt="Third obstacle"></div>
+
+Speed increasing.
+
+[**JUMP**](#dino-04)
+
+---
+
+<a id="dino-04"></a>
+
+### DINO RUN · 0090m
+
+<div align="center"><img src="./assets/dino-04.svg" width="760" alt="Final obstacle"></div>
+
+One last obstacle.
+
+[**CLEAR**](#dino-win) · [**MISS**](#dino-game-over)
+
+---
+
+<a id="dino-win"></a>
+
+### RUN COMPLETE
+
+<div align="center"><img src="./assets/dino-win.svg" width="760" alt="Run complete"></div>
+
+[**RUN AGAIN**](#dino-01)
+
+---
+
+<a id="dino-game-over"></a>
+
+### GAME OVER
+
+<div align="center"><img src="./assets/dino-game-over.svg" width="760" alt="Game over"></div>
+
+[**TRY AGAIN**](#dino-01)
 
 ---
 
 ## SOCIALS
 
-[GitHub · @zidanshaw](https://github.com/zidanshaw) · [Instagram · @zdn_zaa_](https://instagram.com/zdn_zaa_) · [Website · zidanz.my.id](https://zidanz.my.id)
+[GitHub](https://github.com/zidanshaw) · [Instagram](https://instagram.com/zdn_zaa_) · [Website](https://zidanz.my.id)
 
----
-
-<div align="center">
-
-`built intentionally, not generated`
-
-</div>
+<div align="center">`built intentionally`</div>
