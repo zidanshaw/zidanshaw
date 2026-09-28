@@ -44,12 +44,6 @@
 
 ###
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/zidanshaw/zidanshaw/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 ## Contact
 
 zidanshaw4327@gmail.com
