@@ -1,27 +1,146 @@
 [
-  [
-    "Imagination is more important than knowledge.",
-    "Albert Einstein",
-    "Interview with George Sylvester Viereck, 1929"
-  ],
-  [
-    "The present is theirs; the future, for which I really worked, is mine.",
-    "Nikola Tesla",
-    "The Transmission of Electrical Energy Without Wires As a Means for Furthering Peace, 1905"
-  ],
-  [
-    "Genius is one percent inspiration, ninety-nine percent perspiration.",
-    "Thomas Edison",
-    "Attributed to Edison in a 1903 publication"
-  ],
-  [
-    "If I have seen further it is by standing on the shoulders of giants.",
-    "Isaac Newton",
-    "Letter to Robert Hooke, 1676"
-  ],
-  [
-    "The Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves.",
-    "Ada Lovelace",
-    "Notes on the Analytical Engine, 1843"
-  ]
+  {
+    "text": "Imagination is more important than knowledge.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Try not to become a man of success, but rather try to become a man of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "I have no special talents. I am only passionately curious.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The most beautiful thing we can experience is the mysterious.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Education is what remains after one has forgotten what one has learned in school.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The formulation of a problem is often more essential than its solution.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "I have gotten a lot of results. I know several thousand things that won't work.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "The value of an idea lies in the using of it.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "Restlessness is discontent, and discontent is the first necessity of progress.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "Invention is the most important product of man's creative brain.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "text": "The scientists of today think deeply instead of clearly. One must be sane to think clearly, but one can think deeply and be quite insane.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "text": "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I really worked, is mine.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "text": "Of all the frictional resistances, the one that most retards human movement is ignorance.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "text": "I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "text": "Throughout space there is energy. … It is a mere question of time when men will succeed in attaching their machinery to the very wheelwork of nature.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "text": "If I have seen further, it is by standing on the shoulders of giants.",
+    "author": "Isaac Newton"
+  },
+  {
+    "text": "I was taught that the way of progress was neither swift nor easy.",
+    "author": "Marie Curie"
+  },
+  {
+    "text": "Nothing is too wonderful to be true, if it be consistent with the laws of nature.",
+    "author": "Michael Faraday"
+  },
+  {
+    "text": "Chance favors only the prepared mind.",
+    "author": "Louis Pasteur"
+  },
+  {
+    "text": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+    "author": "Richard Feynman"
+  },
+  {
+    "text": "What I cannot create, I do not understand.",
+    "author": "Richard Feynman"
+  },
+  {
+    "text": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+    "author": "Alan Turing"
+  },
+  {
+    "text": "The Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.",
+    "author": "Ada Lovelace"
+  },
+  {
+    "text": "The most dangerous phrase in the language is, “We’ve always done it this way.”",
+    "author": "Grace Hopper"
+  },
+  {
+    "text": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.",
+    "author": "Donald Knuth"
+  },
+  {
+    "text": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "text": "Security is a process, not a product.",
+    "author": "Bruce Schneier"
+  },
+  {
+    "text": "Only amateurs attack machines; professionals target people.",
+    "author": "Bruce Schneier"
+  },
+  {
+    "text": "Extraordinary claims require extraordinary evidence.",
+    "author": "Carl Sagan"
+  },
+  {
+    "text": "Stay hungry. Stay foolish.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Beri aku sepuluh pemuda, niscaya akan kuguncangkan dunia.",
+    "author": "Soekarno"
+  }
 ]
