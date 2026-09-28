@@ -1,13 +1,149 @@
-<h1 align="center">You found zidan azka</h1>
-<h3 align="center">learning, building, breaking, fixing.</h3>
+<div align="center">
 
-- I'm currently learning **I'm currently learning**
+# This is Zidan.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zdn_zaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zdn_zaa_" height="30" width="40" /></a>
-<a href="https://instagram.com/zdn_zaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zdn_zaa_" height="30" width="40" /></a>
-</p>
+**Web developer · Linux · Cybersecurity**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[GitHub](https://github.com/zidanshaw) · [Instagram](https://instagram.com/zdn_zaa_) · [Website](https://zidanz.my.id)
+
+</div>
+
+---
+
+## ABOUT
+
+Web developer interested in Linux, cybersecurity, networking, and building things that are actually useful.
+
+I like clean interfaces, lightweight systems, and experiments that teach me something.
+
+---
+
+## NOW
+
+| Area | Focus |
+|:---|:---|
+| **Web** | Frontend development & personal projects |
+| **Systems** | Linux, Bash & servers |
+| **Security** | Cybersecurity & networking |
+| **Experiments** | Small tools, prototypes & technical experiments |
+
+---
+
+## QUOTE OF THE WEEK
+
+<div align="center">
+
+<img src="./quote.svg" alt="Quote of the week" width="900" />
+
+</div>
+
+---
+
+## SELECTED WORK
+
+<div align="center">
+
+| Project | Preview |
+|:---:|:---:|
+| **Portfolio** | [View project](https://zidanz.my.id) |
+| **Project 02** | [View project](#) |
+| **Project 03** | [View project](#) |
+
+</div>
+
+Replace the placeholders with real project or video links. Keep it to a few things worth showing.
+
+---
+
+## SKILLS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="./assets/skills/html5.svg" width="56" height="56" alt="HTML5" /><br />
+<strong>HTML</strong>
+</td>
+<td align="center" width="120">
+<img src="./assets/skills/css3.svg" width="56" height="56" alt="CSS3" /><br />
+<strong>CSS</strong>
+</td>
+<td align="center" width="120">
+<img src="./assets/skills/python.svg" width="56" height="56" alt="Python" /><br />
+<strong>Python</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="./assets/skills/bash.svg" width="56" height="56" alt="Bash" /><br />
+<strong>Bash</strong>
+</td>
+<td align="center" width="120">
+<img src="./assets/skills/linux.svg" width="56" height="56" alt="Linux" /><br />
+<strong>Linux</strong>
+</td>
+<td align="center" width="120">
+<img src="./assets/skills/blender.svg" width="56" height="56" alt="Blender" /><br />
+<strong>Blender</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## LAB
+
+```text
+01  Linux
+    System customization & experiments
+
+02  Networking
+    Servers, routing & connectivity
+
+03  Minecraft
+    Self-hosted servers & experiments
+
+04  Web
+    Small experiments and prototypes
+```
+
+---
+
+## PACKET RUNNER
+
+A small networking-themed game.
+
+```text
+YOU ARE A PACKET
+
+START
+  ↓
+ROUTER
+  ↓
+FIREWALL
+  ↓
+NETWORK
+  ↓
+SERVER
+```
+
+**Goal:** reach the server while keeping latency low.
+
+[▶ Play Packet Runner](https://zidanz.my.id/packet-runner)
+
+---
+
+## SOCIALS
+
+[GitHub · @zidanshaw](https://github.com/zidanshaw) · [Instagram · @zdn_zaa_](https://instagram.com/zdn_zaa_) · [Website · zidanz.my.id](https://zidanz.my.id)
+
+---
+
+<div align="center">
+
+`built intentionally, not generated`
+
+</div>
