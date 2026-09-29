@@ -14,6 +14,8 @@
 <a href="https://zidanz.my.id" > zidanz.my.id </a>
 </p>
 
+## social
+
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/zdn_zaa_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -32,7 +34,7 @@
   </a>
 </div>
 
-###
+## 
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zidanshaw/zidanshaw/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
